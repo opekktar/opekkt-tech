@@ -1,6 +1,7 @@
 ---
 title: "Contribution Guidelines"
 linkTitle: "Contribution Guidelines"
+draft: true
 weight: 10
 description: >
   How to contribute to the docs

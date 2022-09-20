@@ -1,8 +1,6 @@
 
 ---
-title: "News About Docsy"
-linkTitle: "News"
+title: "News About Opekkt Tech"
+linkTitle: "Blog Posts"
 weight: 20
 ---
-
-
